@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/iwan/.vim'
+let g:netrw_dirhist_6='/home/iwan'
+let g:netrw_dirhist_5='/home/iwan/.vim/plugged/vim-tmux'
+let g:netrw_dirhist_4='/home/iwan/Programs/omnetpp-5.6.2/samples/sockets'
+let g:netrw_dirhist_3='/home/iwan/Programs/ns-3-allinone/ns-3.30/examples/energy'
+let g:netrw_dirhist_2='/home/iwan/Programs/ns-3-allinone/ns-3.30/examples'
+let g:netrw_dirhist_1='/home/iwan/Programs/opencv_base/opencv'
